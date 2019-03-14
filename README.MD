@@ -24,7 +24,7 @@ This repository has the following structure:
  
 ## How to get started
 There may be different ways you could interact with this repository; they include:
-* [viewing the content](docs/viewing.md)
-* [raising an issue or query on the content](docs/issues.md)
-* [contributing changes to this content](docs/contributing.md)
-* [build one of the implementation guides in this repository using the FHIR IG publisher](docs/building.md)
+* [viewing the content](VIEWING.md)
+* [raising an issue or query on the content](ISSUES.md)
+* [contributing changes to this content](CONTRIBUTING.md)
+* [build one of the implementation guides in this repository using the FHIR IG publisher](BUILDING.md)

@@ -19,7 +19,7 @@ This repository has the following structure:
 - a pages folder that contains the subfolders for each FHIR implementation guide containing the implementation guide specific markdown files e.g. header and footer
 - multiple json controller file in the root level folder (e.g. ig-medicare-records.json`)
 - repository files, e.g. .gitignore.md, .readme.md
-- implementation guide build files, e.g. base.html, format.html
+- implementation guide template files, e.g. base.html, format.html
 
  
 ## How to get started

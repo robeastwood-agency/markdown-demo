@@ -26,5 +26,5 @@ This repository has the following structure:
 There are different ways to interact with this repository; they include:
 * [viewing the content](VIEWING.md)
 * [raising an issue or query on the content](ISSUES.md)
-* [contributing changes to this content](CONTRIBUTING.md)
+* [contributing changes to this repository](CONTRIBUTING.md)
 * [build one of the implementation guides in this repository using the FHIR IG publisher](BUILDING.md)

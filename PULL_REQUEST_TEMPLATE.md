@@ -3,7 +3,7 @@
 This project welcomes contributions and suggestions.
 
 ## Overview
-Please review the [guidelines for contributing to this repository](CODE_OF_CONDUCT.md).
+Please review the [code of conduct](CODE_OF_CONDUCT.md).
 
 Please describe the problem you're trying to solve and include an overview of the suggested solution.
 

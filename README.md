@@ -1,4 +1,4 @@
-# CI STU3 FHIR 
+# CI FHIR STU3
 
 ## Overview
 This repository is ‘current state’ of FHIR, Release 3 (STU) artefacts authored and maintained by the Clinical Informatics team at the Australian Digital Health Agency. The contents are early working drafts that may have known issues and still be in development. These drafts are available for comment, review, and collaboration. Approved releases for use in implementation and in production systems are published on the Agency’s [developer centre]( https://developer.digitalhealth.gov.au/).

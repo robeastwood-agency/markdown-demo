@@ -16,7 +16,7 @@ To download a point-in-time snapshot:
  5. Use your preferred archiving software (such as [WinZip](https://www.winzip.com/win/en/) or [7-Zip](https://www.7-zip.org/) etc) to extract the files from the zip (ie 'unzipping')
  6. The repository is then ready to be viewed (see '2. Opening the content in a browser' below)
 
-The disadvantage with this snapshot is that the content is only aup-to-date at the moment of your download action. Any later updates to the repository are therefore not seen, unless a new subsequent download is done. A more advanced option to allow updates to be seen is to "clone" the repository.
+The disadvantage with this snapshot is that the content is only up-to-date at the moment of your download action. Any later updates to the repository are therefore not seen, unless a new subsequent download is done. A more advanced option to allow updates to be seen is to "clone" the repository.
 
 #### b) Option 2 - cloning (advanced)
 This option uses the capability of the [git version control system](https://git-scm.com/) to readily obtain any updates to this repository on your computer. It does presume a basic understanding of git, which is outside the scope of this readme.  Essentially, 

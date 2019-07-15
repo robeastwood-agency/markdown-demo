@@ -4,7 +4,7 @@ The content can be viewed by the following means:
 ## Viewing in a browser
 This content is not yet available to be viewed on a browser via the world wide web, so in order to view with a browser, the content must be first be copied (i.e. downloaded) onto your own computer. 
 
-### 1) Downloading a copy of the repository
+### 1. Downloading a copy of the repository
 The following options are available to download the content.
 
 #### a) Option 1 - download a 'snapshot'
@@ -50,7 +50,7 @@ The implementation guides all have a standard layout, organised with the blue na
 ## Advanced content viewing
 Readers wishing to view the native implementation guide content (i.e. the `xml` files), have a number of options. They are:
 
-### 1) Viewing the raw content in GitHub
+### 1. Viewing the raw content in GitHub
 The input files in this repository can be viewed within the GitHub `code` viewing pane. Note that this does not require that any content be downloaded onto your computer.
 1. Go back to the [home page](https://github.com/AuDigitalHealth/ci-fhir-r4) of this repository
 2. Click on the folder `examples` to see a list of included example xml files, or the `resources` folder to see the list of included profiles
@@ -58,10 +58,10 @@ The input files in this repository can be viewed within the GitHub `code` viewin
 4. The xml file will then open within the GitHub code viewing pane
 5. Note that all included files may be viewed by this means
 
-### 2) Viewing the raw content within text editor software
+### 2. Viewing the raw content within text editor software
 All downloaded content, that is text-based (e.g. xml, markdown) may also be viewed with text editor software. For optimal viewing with this approach, xml-aware software such as [Notepad++](https://notepad-plus-plus.org/) or [Oxygen](https://www.oxygenxml.com/) is recommeded. Just navigate to the directory/file that you wish to view. For example, to view the raw xml of one of the profiles, click on `resources` and then one of the listed xml files that interest you.
 
-### 3) Opening profiles with Forge (advanced)
+### 3. Opening profiles with Forge (advanced)
 Profiles can be opened with the [Forge application](https://simplifier.net/forge) in order to view the technical constraints applied in the profile. This advanced option requires additional setup, which is:
 1. Clone the [HL7 AU au-fhir-base repository](https://github.com/hl7au/au-fhir-base) onto your computer. This is required as our repositories are technically derived from HL7 AU `au-fhir-base` which must be present on your computer in order for Forge to collect all of the upstream constraints.
 2. A symbolic link must be created between the 2 repositories, specifically from within the `ci-fhir-r4` resources folder to the resources folder of the HL7 AU `au-fhir-base` resources folder. This can be achieved with the following command (executed in an adminstrator-enabled command terminal window):

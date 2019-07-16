@@ -19,12 +19,11 @@ The disadvantage with downloading a zip is that the content is only up-to-date a
  3. Click on `Download ZIP`
  4. Use the standard dialog box to save the zip file to the location of your choice
  5. Use your preferred archiving software (such as [WinZip](https://www.winzip.com/win/en/) or [7-Zip](https://www.7-zip.org/) etc) to extract the files from the zip (ie 'unzipping')
- 6. The repository is then ready to be viewed 
- 7. Navigate to where the repository was downloaded
- 8. Open the folder `output` and notice the included subfolders, one for each implementation guide
- 9. Open the folder you are interested in to view, eg `EventSummary`
- 10. Scroll down to the file `index.html` and double-click on it to open it with your (default) browser.
- 11. The home page will then display
+ 6. Navigate to where the repository was downloaded
+ 7. Open the folder `output` and notice the included subfolders, one for each implementation guide
+ 8. Open the folder you are interested in to view, eg `EventSummary`
+ 9. Scroll down to the file `index.html` and double-click on it to open it with your (default) browser.
+ 10. The home page will then display
 
 The disadvantage with this snapshot is that the content is only up-to-date at the moment of your download action. Any later updates to the repository are therefore not seen, unless a new subsequent download is done. A more advanced option to allow updates to be seen is to "clone" the repository.
 

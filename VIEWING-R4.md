@@ -18,7 +18,7 @@ The disadvantage with downloading a zip is that the content is only up-to-date a
  2. Click on the green `Clone or download` button
  3. Click on `Download ZIP`
  4. Use the standard dialog box to save the zip file to the location of your choice
- 5. Use your preferred archiving software (such as [WinZip](https://www.winzip.com/win/en/) or [7-Zip](https://www.7-zip.org/) etc) to extract the files from the zip (ie 'unzipping')
+ 5. Once the zip is downloaded you will need to extract all the files to open and navigate properly
  6. Navigate to where the repository was downloaded
  7. Open the folder `output` and notice the included subfolders, one for each implementation guide
  8. Open the folder you are interested in to view, eg `EventSummary`

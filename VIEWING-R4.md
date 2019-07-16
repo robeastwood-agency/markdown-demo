@@ -1,13 +1,7 @@
-# Viewing
-The content can be viewed by the following means:
+# Viewing an implementation guide
+Implementation guides are viewed in a browser. In order to view with a browser you must first get a copy onto your own computer. 
 
-## Viewing in a browser
-This content is not yet available to be viewed on a browser via the world wide web, so in order to view with a browser, the content must be first be copied (i.e. downloaded) onto your own computer. 
-
-### 1. Downloading a copy of the repository
-The following options are available to download the content.
-
-#### a) Option 1 - download a 'snapshot'
+## Option 1 - getting a copy by downloading a 'snapshot'
 To download a point-in-time snapshot: 
  1. Go back to the [home page](https://github.com/AuDigitalHealth/ci-fhir-r4) of this repository 
  2. Click on the green `Clone or download` button
@@ -18,7 +12,7 @@ To download a point-in-time snapshot:
 
 The disadvantage with this snapshot is that the content is only up-to-date at the moment of your download action. Any later updates to the repository are therefore not seen, unless a new subsequent download is done. A more advanced option to allow updates to be seen is to "clone" the repository.
 
-#### b) Option 2 - cloning (advanced)
+## b) Option 2 - getting a copy by cloning (advanced)
 This option uses the capability of the [git version control system](https://git-scm.com/) to readily obtain any updates to this repository on your computer. It does presume a basic understanding of git, which is outside the scope of this readme.  Essentially, 
 1. Go back to the [home page](https://github.com/AuDigitalHealth/ci-fhir-r4) of this repository 
 2. Click on the green `Clone or download` button

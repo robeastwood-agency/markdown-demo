@@ -40,18 +40,6 @@ This option uses the capability of the [git version control system](https://git-
 
 For further information on cloning a repository, refer to [this GitHub help page](https://help.github.com/en/articles/cloning-a-repository).
 
-
-#### Implementation guide layout
-The implementation guides all have a standard layout, organised with the blue navigation bar near the top of the page. The tabs are:
- - `Home` - this is the starting point of the implementation guide and contains introductory material intended to provide an overview of the purpose, scope, how to get started etc
- - `Guidance` - this page has information for readers unfamiliar with the FHIR standard
- - `Conformance` - this page outlines a number of requirements that should be met by implementations of the implementation guides
- - `Profiles` - this page lists all of the included profiles, organised by resource categories
- - `Extensions`- this page lists all of the included extensions
- - `Mapping from requirements` - this page outlines mapping from data items (i.e. requirements) into FHIR
- - `Downloads` - this page includes a number of artefacts that can be downloaded to enable more advanced interactions with this implementation guide
- - `Disclaimers` - this page includes the proper attribution for all included content
-
 ## Advanced content viewing
 Readers wishing to view the native implementation guide content (i.e. the `xml` files), have a number of options. They are:
 

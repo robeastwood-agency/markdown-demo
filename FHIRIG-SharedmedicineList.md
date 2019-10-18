@@ -5,4 +5,4 @@ The following versions of the Australian Digital Health Agency's Shared Medicine
 |--|--|--|--|
 | 20 Dec 2019|1.0.0|STU3|Initial release|
 
-### The above is a mock up for the purpiose of demonstration.
+### The above is a mock up for the purpose of demonstration.
